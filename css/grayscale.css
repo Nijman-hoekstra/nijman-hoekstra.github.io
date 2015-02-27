@@ -156,13 +156,13 @@ a:focus {
     }
 
     .brand-heading {
-	font-size: 102px;
+	font-size: 85px;
 	color: #F5F5F5;
-	text-shadow: 0px -5px #1A1818;
+	text-shadow: 0px -3px #1A1818;
     }
 
     .intro-text {
-        font-size: 25px;
+        font-size: 28px;
     }
 }
 
