@@ -169,7 +169,7 @@ a:focus {
 
 .google-maps {
     position: relative;
-    padding-bottom: 75%; 
+    padding-bottom: 30%; 
     height: 0;
     overflow: hidden;
 }
