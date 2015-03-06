@@ -158,12 +158,17 @@ a:focus {
     .brand-heading {
 	font-size: 102px;
 	color: #F5F5F5;
-	text-shadow: 0px -3px #1A1818;
+	text-shadow: 0px -4px #1A1818;
     }
 
     .intro-text {
-        font-size: 30px;
+        font-size: 28px;
+        text-shadow: 0px 2px #000;
     }
+}
+
+.txtshadow {
+    text-shadow: 0 4px #000;
 }
 
 .btn-circle {
